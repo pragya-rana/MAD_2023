@@ -48,7 +48,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
     * Pink: Sports Events
     * Yellow: Club Events
   * **Messaging:** Students can message their teachers. They will be able to upload photos and write text messages to get help on any items they need. Teachers that students students only have class with are available to message.
-  *  * **Bookeepers:** Students can book necessary equipement for their clubs, activities, and classes. The price will be listed but no payments will be made through the App. 
+  * **Bookeepers:** Students can book necessary equipement for their clubs, activities, and classes. The price will be listed but no payments will be made through the App. 
 
 ### Teachers
   * **Sign-In:** Teachers will be expected to sign-in using their nsd.org emails.
