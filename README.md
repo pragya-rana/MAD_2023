@@ -46,7 +46,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Student Screenshots 
 
 # Home
-<img src = "https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="100" height="200">
+<img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="100" height="200">
 ![IMG_1172](https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG)
 
 
@@ -68,8 +68,6 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * **Photo Messaging:** Students and teachers are able to send photos to each other through our messaging page. This ensures that teachers can be fully involved in the students' learning process.
 * **Reporting Absences:** As many parents know, reporting their students' absences can be quite tedious. VERTEX ensures that this process is simple and quick from both parents and administration.
 * **Bookkeeping:** School bookkeeping is unorganized and lacks UI to display items being purchases. Vertex's bookkeeping page solves all of these problems.
-
-# Screenshots
 
 # Instructions
 
