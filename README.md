@@ -10,11 +10,9 @@ VERTEX is an app that allows for communication among 3 types of individuals: stu
 We created this project to solve important student needs that apps, such as Remind and Instagram, could not solve themselves. We understand the frusturation that many students may experience as they use these apps, so we wanted to make the experience better. Furthermore, we wanted to get teachers and parents involved because to provide the best educational experience possible. 
 
 # Code
-We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06vqVy2r9-7r07Bz3MYqicIY42nP4Jw0dpZ_y20WWA4i7uxSiFRoCJNIQAvD_BwE&gclsrc=aw.ds) for our frontend. Flutter allows for development on iOS and Android platforms. We used Firebase for our backend development. Firestore, Firebase Storage, and Google Authorization platforms were used.
+We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06vqVy2r9-7r07Bz3MYqicIY42nP4Jw0dpZ_y20WWA4i7uxSiFRoCJNIQAvD_BwE&gclsrc=aw.ds) for our frontend. Flutter allows for development on iOS and Android platforms. We used Firebase for our backend development. Firestore, Firebase Storage, and Google Authorization platforms were used. We also used several packages:
 
-# Screenshots
-
-# Packages
+## Packages
 * [sync_fusion_calendar](https://pub.dev/packages/syncfusion_flutter_calendar): Creates the framework behind the calendar, allowing users to view upcoming events.
 * [flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar): Creates slider rating iwhen user adds feedback.
 * [cloud_firestore](https://pub.dev/packages/cloud_firestore): Allows for access to the Firestore database in order to access users, activities, classes, and receive input from the user (event requests and feedback).
@@ -42,6 +40,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * [image_picker](https://pub.dev/packages/image_picker): A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [webview_flutter](https://pub.dev/packages/webview_flutter): Directs user to a new link within the app.
 * [permission_handler](https://pub.dev/packages/permission_handler): Requests permission from user to access particluar tools on user's phone.
+![Change in Concern Between Framings (After - Initial)](https://user-images.githubusercontent.com/52381965/232178297-b3ace2b5-db94-49b1-9338-a7ca46336c55.png)
 
 # Features
 * **Upcoming Events:** Lists all of the users' upcoming events based on the activities they are enrolled. The events are shown on a calendar. A description of the event is provided. The dates and times are listed as well. This ensures that the user is up to date on all school-related information.
@@ -53,6 +52,8 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * **Photo Messaging:** Students and teachers are able to send photos to each other through our messaging page. This ensures that teachers can be fully involved in the students' learning process.
 * **Reporting Absences:** As many parents know, reporting their students' absences can be quite tedious. VERTEX ensures that this process is simple and quick from both parents and administration.
 * **Bookkeeping:** School bookkeeping is unorganized and lacks UI to display items being purchases. Vertex's bookkeeping page solves all of these problems.
+
+# Screenshots
 
 # Instructions
 
