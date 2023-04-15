@@ -56,11 +56,10 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 # Instructions
 
-## Students: 
-
-### Overview:
+## Overview:
 The purpose of Vertex is to connect teachers, parents, and students on one platform in order to get the best education experience possible. 
 
+## Students: 
 As a student, you have access to the following pages:
   **1. Home (home icon):** Displays upcoming events and classes/activities.
   **2. Calendar (calendar icon):** Displays personal and events from activities you participate in.
@@ -144,6 +143,102 @@ If you have a bug, suggestion, compliments, etc. to report you can give us feedb
 
 #### Logout
 The last item on this screen is the logout button. It will log you out of your account and take you back to the sign in page. 
+
+
+## Parents: 
+As a parent, you have access to the following pages:
+  **1. Home (home icon):** Displays your children’s upcoming events and a list of your children.
+  **2. Calendar (calendar icon):** Displays upcoming events of activities that your children are a part of.
+  **3. Settings (settings icon):** Displays all user settings, including pronouns, terms of licensing & use, a feedback page, and so much more.
+
+### Home Page
+This page is meant to provide a snapshot of the events that your children are a part of and a list of all your children in one location for easy access. In this page, you will see:
+
+### Upcoming Events
+You will have access to up to five upcoming events for your children, prioritized by date and time. These events will have the name, description, start time, and end time of the event. An icon is also displayed to provide more information about the event. These events will be displayed on cards. You can swipe through the cards to browse through the different events.
+
+#### Lists of Classes Children
+A list of your children will be displayed. Each list item will have the name of your child. By dragging each list item to the left, you will be presented with the option to report the absence of a particular child. 
+
+#### Report Absences
+By pressing on the report absences option for a particular child, you will be redirected to a form, where you will be asked to input information about your child’s absence. This information will be stored and used for administrative purposes. 
+
+### Calendar Page
+The purpose of this page is to see any upcoming events that your children are a part of. In this page, the default calendar mode will show weekly calendar events.
+ 
+#### Browsing Through the Events
+You will be able to click through the different dates (switching across days, months, and even years); a subscript on the date will tell you the number of events that you have on that particular day; when you click on the date, a list of your events will show up. The events are color-coded into the following categories: NCHS events (purple), club events (yellow), and sports events (pink). A date that has no events will be labeled as such. To return to today’s date, you can click on the clock icon. 
+
+#### Monthly Calendar View
+As you are browsing through your various events, you may also consider viewing the events in the monthly calendar mode by clicking on the calendar icon at the top of the screen. The functionality of the calendar will still be the same. 
+
+### Settings Page
+The settings page is meant to provide an overview information about your account and information about Vertex. In the settings page, you will be able to view:
+
+#### Account Information
+This information will be relevant to you. It will include items, such as your name, the type of person you are (“teacher” in this case), and your pronouns. The only editable field is your pronouns.
+
+#### Changing Pronouns
+You will be able to change your pronouns by being redirected to a page where you will be able to input your new pronouns. This is important because this information will be displayed to the individual being messaged.
+
+**Help and Permissions**
+These settings will present information about our app, including our licensing & terms of use, these instructions, and a feedback page.
+
+#### Give Us Feedback
+If you have a bug, suggestion, compliments, etc. to report you can give us feedback, which we will seriously consider. To give us feedback, you will be redirected to a new page, which will be a form. You will rate the satisfaction you have with Vertex on a scale of 0-10, pick the subject of feedback through a dropdown menu, and add an option comment. When you click the submit button, this feedback will be recorded and we will make sure to consider it. 
+
+#### Logout
+The last item on this screen is the logout button. It will log you out of your account and take you back to the sign in page. 
+
+
+## Teachers: 
+As a teacher, you have access to the following pages:
+  **1. Home (home icon):** Displays upcoming events and the classes you teach.
+  **2. Calendar (calendar icon):** Displays upcoming events of activities that you are the adviser of.
+  **3. Settings (settings icon):** Displays all user settings, including pronouns, terms of licensing & use, a feedback page, and so much more.
+
+### Home Page
+This page is meant to provide a snapshot of your events and classes all in one location for easy access. In this page, you will see:
+
+### Upcoming Events
+You will have access to up to five upcoming events, prioritized by date and time. These events will have the name, description, start time, and end time of the event. An icon is also displayed to provide more information about the event. These events will be displayed on cards. You can swipe through the cards to browse through the different events.
+
+## Lists of Classes You Teach
+A list of classes you teach will be displayed. Each list item will provide information about the class name, class period, and a helpful icon to go along with it. By dragging each list item to the left, you will be presented with the option to message students in the class. 
+
+## Messaging
+By pressing on the messaging option, you will be presented with a screen where you can privately message with individual students in your class. This will take the form of a simple chat app, where you will be able to upload images or other media as well as text. Moreover, you can create announcements, so that the whole class can see your message. 
+
+### Calendar Page
+The purpose of this page is to see any upcoming events of activities that you are a part of. In this page, the default calendar mode will show weekly calendar events.
+ 
+#### Browsing Through the Events
+You will be able to click through the different dates (switching across days, months, and even years); a subscript on the date will tell you the number of events that you have on that particular day; when you click on the date, a list of your events will show up. The events are color-coded into the following categories: NCHS events (purple), club events (yellow), and sports events (pink). A date that has no events will be labeled as such. To return to today’s date, you can click on the clock icon. 
+
+#### Monthly Calendar View
+As you are browsing through your various events, you may also consider viewing the events in the monthly calendar mode by clicking on the calendar icon at the top of the screen. The functionality of the calendar will still be the same. 
+
+#### Add Activity Event
+An add icon will be located at the bottom right corner of the screen. When you click this icon, you will be able to add an event of an activity that you are the adviser of. A form will show on the screen and you will be required to input the following information: Subject of event (which will be in the form of a dropdown menu), details of event, start time (which will display a date and time picker), and end time (which will also display a date and time picker). When you click “submit”, you will be redirected to the calendar page and your event will be displayed at the date chosen. This event will also be displayed on the students’ end if they are a part of the activity. 
+
+### Settings Page
+The settings page is meant to provide an overview information about your account and information about Vertex. In the settings page, you will be able to view:
+
+#### Account Information
+This information will be relevant to you. It will include items, such as your name, the type of person you are (“teacher” in this case), and your pronouns. The only editable field is your pronouns.
+
+**Changing Pronouns**
+You will be able to change your pronouns by being redirected to a page where you will be able to input your new pronouns. This is important because this information will be displayed to the individual being messaged.
+
+#### Help and Permissions
+These settings will present information about our app, including our licensing & terms of use, these instructions, and a feedback page.
+
+#### Give Us Feedback
+If you have a bug, suggestion, compliments, etc. to report you can give us feedback, which we will seriously consider. To give us feedback, you will be redirected to a new page, which will be a form. You will rate the satisfaction you have with Vertex on a scale of 0-10, pick the subject of feedback through a dropdown menu, and add an option comment. When you click the submit button, this feedback will be recorded and we will make sure to consider it. 
+
+#### Logout
+The last item on this screen is the logout button. It will log you out of your account and take you back to the sign in page.
+
 
 # Support
 If any help is needed while navigating through the app, please contact: [ishita.mundra@gmail.com](ishita.mundra@gmail.com).
