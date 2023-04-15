@@ -46,7 +46,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Student Screenshots 
 
 # Home
-![IMG_1171](https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG) ![IMG_1172](https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG)
+![IMG_1171](https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG width="200") ![IMG_1172](https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG)
 
 
 # Calendar
