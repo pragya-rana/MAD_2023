@@ -50,13 +50,16 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 <img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="200">
 
+
 ### Student Add Events
 <img src="https://user-images.githubusercontent.com/52381965/232178913-eafdc0f3-2db2-48e8-b95c-30267043f727.jpeg" width="200">
+
 
 ### ClubHub
 <img src="https://user-images.githubusercontent.com/52381965/232179129-fef67118-4c37-4492-81f1-64da7fbbafb4.PNG" width="200">
 
 <img src="https://user-images.githubusercontent.com/52381965/232179144-af06fc21-d550-4a8d-9955-f2aae075fdf6.PNG" width="200">
+
 
 ### Bookkeeper
 <img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG" width="200">
@@ -73,6 +76,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 <img src="https://user-images.githubusercontent.com/52381965/232179352-6b7153ed-b61b-4251-9791-c64dec60d057.PNG" width="200">
 
+
 ### Add Events
 <img src="https://user-images.githubusercontent.com/52381965/232179408-ca0abb6c-7f82-45fe-a09e-f10f1e2b0259.jpeg" width="200">
 
@@ -82,6 +86,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ### Home
 <img src="https://user-images.githubusercontent.com/52381965/232179244-4c8ad6a4-d58c-4f7d-9b97-827946c0855f.jpeg" width="200">
 
+
 ### Report Absences
 <img src="https://user-images.githubusercontent.com/52381965/232179246-6de1da28-bf96-4b41-ae95-3e683d501063.jpeg" width="200">
 
@@ -90,6 +95,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 ### Calendar
 <img src="https://user-images.githubusercontent.com/52381965/232178955-74267927-b95e-48b4-aaaa-8b79e289cbf4.jpeg" width="200">
+
 
 ### Settings
 <img src="https://user-images.githubusercontent.com/52381965/232179437-5d0eb64a-e264-46b5-9833-057b75f0e423.jpeg" width="200">
