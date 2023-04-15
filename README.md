@@ -64,7 +64,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ### Bookkeeper
 <img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG" width="200">
 
-<img src="https://user-images.githubusercontent.com/52381965/232179184-c8bb584d-db3b-4b45-a823-859a1dfc6383.PNG" width="200">
+<img src="https://user-images.githubusercontent.com/52381965/232179574-4b9822ba-a4e4-4cae-a229-05c551395a03.PNG" width="200">
 
 
 ## Screenshots Applicable to Teachers Only
