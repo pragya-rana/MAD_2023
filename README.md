@@ -55,9 +55,10 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * **Bookkeeping:** School bookkeeping is unorganized and lacks UI to display items being purchases. Vertex's bookkeeping page solves all of these problems.
 
 # Instructions
-### Students: 
 
-## Overview:
+## Students: 
+
+### Overview:
 The purpose of Vertex is to connect teachers, parents, and students on one platform in order to get the best education experience possible. 
 
 As a student, you have access to the following pages:
@@ -69,13 +70,13 @@ As a student, you have access to the following pages:
   * **Sign-In:** Students will be expected sign-in using their apps.nsd.org emails. 
   * **Home Page:** Once the student has been successfully authenticated, they will immediately be brought to a home screen where they will be able to look at their events and their classes/activities. 
 
-## Home Page
+### Home Page
 This page is meant to provide a snapshot of your events, classes, and activities all in one location for easy access. In this page, you will see:
 
-# Upcoming Events
+## Upcoming Events
 You will have access to up to five upcoming events, prioritized by date and time. These events will have the name, description, start time, and end time of the event. An icon is also displayed to provide more information about the event. These events will be displayed on cards. You can swipe through the cards to browse through the different events.
 
-# Lists of Clubs and Activities
+## Lists of Clubs and Activities
 A list of classes and activities that you are currently in will be displayed; each can be accessed by the “classes” and “activities” buttons at the top of lists. Each list item will provide information about the teacher and a helpful icon to go along with it. The classes list item will further have information about the class period. By dragging each list item to the left, you will be presented with the options to either message or email the teacher of a particular class.
 
 **Email**
@@ -84,19 +85,19 @@ By pressing on the email option, an email draft will pop up on your screen, addr
 **Messaging**
 By pressing on the messaging option, you will be presented with a screen where you can privately message with a particular teacher. This will take the form of a simple chat app, where you will be able to upload images or other media as well as text.
 
-## Calendar Page
+### Calendar Page
 The purpose of this page is to see any upcoming events that either you have created or that an activity that you are in has added. In this page, the default calendar mode will show weekly calendar events.
  
-# Browsing Through the Events
+## Browsing Through the Events
 You will be able to click through the different dates (switching across days, months, and even years); a subscript on the date will tell you the number of events that you have on that particular day; when you click on the date, a list of your events will show up. The events are color-coded into the following categories: NCHS events (purple), personal events (green), club events (yellow), and sports events (pink). A date that has no events will be labeled as such. To return to today’s date, you can click on the clock icon. 
 
-# Monthly Calendar View
+## Monthly Calendar View
 As you are browsing through your various events, you may also consider viewing the events in the monthly calendar mode by clicking on the calendar icon at the top of the screen. The functionality of the calendar will still be the same. 
 
-# Add Personal Event
+## Add Personal Event
 An add icon will be located at the bottom right corner of the screen. When you click this icon, you will be able to add your own event. A form will show on the screen and you will be required to input the following information: Subject of event, details of event, start time (which will display a date and time picker), and end time (which will also display a date and time picker). When you click “submit”, you will be redirected to the calendar page and your event will be displayed at the date chosen. 
 
-## ClubHub
+# ClubHub
 The ClubHub is an area where you can browse through all of the clubs and sports at NCHS in order to get more information about each or to join a particular club. Each item will contain the name, adviser, members, room number, and icon, and of the club. You can browse through the clubs in two different ways:
 
 # Browse Using Categories
