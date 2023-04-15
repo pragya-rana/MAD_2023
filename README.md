@@ -40,7 +40,22 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * [image_picker](https://pub.dev/packages/image_picker): A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
 * [webview_flutter](https://pub.dev/packages/webview_flutter): Directs user to a new link within the app.
 * [permission_handler](https://pub.dev/packages/permission_handler): Requests permission from user to access particluar tools on user's phone.
-![Change in Concern Between Framings (After - Initial)](https://user-images.githubusercontent.com/52381965/232178297-b3ace2b5-db94-49b1-9338-a7ca46336c55.png)
+
+# Screenshots
+
+## Student Screenshots 
+
+# Home
+![IMG_1171](https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG) ![IMG_1172](https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG)
+
+
+# Calendar
+
+# ClubHub
+
+# Bookkeeper
+
+# Settings
 
 # Features
 * **Upcoming Events:** Lists all of the users' upcoming events based on the activities they are enrolled. The events are shown on a calendar. A description of the event is provided. The dates and times are listed as well. This ensures that the user is up to date on all school-related information.
