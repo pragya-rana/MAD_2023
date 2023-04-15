@@ -10,7 +10,7 @@ VERTEX is an app that allows for communication among 3 types of individuals: stu
 We created this project to solve important student needs that apps, such as Remind and Instagram, could not solve themselves. We understand the frusturation that many students may experience as they use these apps, so we wanted to make the experience better. Furthermore, we wanted to get teachers and parents involved because to provide the best educational experience possible. 
 
 # Code
-We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06vqVy2r9-7r07Bz3MYqicIY42nP4Jw0dpZ_y20WWA4i7uxSiFRoCJNIQAvD_BwE&gclsrc=aw.ds) for our frontend. Flutter allows for development on iOS and Android platforms. We used Firebase for our backend development. Firestore and Google Authorization platforms were used.
+We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06vqVy2r9-7r07Bz3MYqicIY42nP4Jw0dpZ_y20WWA4i7uxSiFRoCJNIQAvD_BwE&gclsrc=aw.ds) for our frontend. Flutter allows for development on iOS and Android platforms. We used Firebase for our backend development. Firestore, Firebase Storage, and Google Authorization platforms were used.
 
 # Screenshots
 
@@ -20,11 +20,28 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 * [cloud_firestore](https://pub.dev/packages/cloud_firestore): Allows for access to the Firestore database in order to access users, activities, classes, and receive input from the user (event requests and feedback).
 * [firebase_core](https://pub.dev/packages/firebase_core): Enables connecting to multiple Firebase apps.
 * [firebase_auth](https://pub.dev/packages/firebase_auth): Aunthenticates user using Google provider.
+* [firebase_storage](https://pub.dev/packages/firebase_storage): Stores images in Firebase Storage for easy access. 
 * [firebase_analytics](https://pub.dev/packages/firebase_analytics): Provides insight on app usage and user engagement.
 * [flutter_cupertino_datetime_picker](https://pub.dev/packages/flutter_cupertino_datetime_picker): Allows user to pick a date and a time when requesting an event.
 * [smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator): Allows for smooth transition in home page as the user looks through their upcoming events.
 * [url_launcher](https://pub.dev/packages/url_launcher): Provides a link for the user to access and be directed to.
 * [google_fonts](https://pub.dev/packages/google_fonts): Changes the default font family of app to a Google Font.
+* [google_sign_in](https://pub.dev/packages/google_sign_in): Authorizes user based on their Google accounts. 
+* [provider](https://pub.dev/packages/provider): Makes widgets more easier and reusable to use.
+* [get](https://pub.dev/packages/get): Combines high-performance state management, intelligent dependency injection, and route management quickly and practically.
+* [google_nav_bar](https://pub.dev/packages/google_nav_bar): Creates an aesthetic nav bar at the bottom of the screen. 
+* [flutter_swiper](https://pub.dev/packages/flutter_swiper): Creates a swipable layout for good UI and cool aesthetics.
+* [flutter_slidable](https://pub.dev/packages/flutter_slidable): Allows list item to slide, providing user with additional functionality. 
+* [flutter_event_calendar](https://pub.dev/packages/flutter_event_calendar): Displays a calendar with severl views (e.g. monthly, weekly). 
+* [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker): Lightweight widget that allows users to easily select a single date, multiple dates, or a range of dates.
+* [simple_time_range_picker](https://pub.dev/packages/simple_time_range_picker): User can select start and end times. 
+* [flutter_email_sender](https://pub.dev/packages/flutter_email_sender): Allows send emails from flutter using native platform functionality.
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter): Offers icons not provided by Flutter.
+* [drop_shadow_image](https://pub.dev/packages/drop_shadow_image): Package for creating drop shadow effect of an image, with lots of properties to apply.
+* [chat_bubbles](https://pub.dev/packages/chat_bubbles): Flutter chat bubble widgets, similar to the Whatsapp and more shapes.
+* [image_picker](https://pub.dev/packages/image_picker): A Flutter plugin for iOS and Android for picking images from the image library, and taking new pictures with the camera.
+* [webview_flutter](https://pub.dev/packages/webview_flutter): Directs user to a new link within the app.
+* [permission_handler](https://pub.dev/packages/permission_handler): Requests permission from user to access particluar tools on user's phone.
 
 # Features
 * **Upcoming Events:** Lists all of the users' upcoming events based on the activities they are enrolled. The events are shown on a calendar. A description of the event is provided. The dates and times are listed as well. This ensures that the user is up to date on all school-related information.
