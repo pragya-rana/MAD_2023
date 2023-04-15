@@ -261,10 +261,10 @@ This page is meant to provide a snapshot of your events and classes all in one l
 ### Upcoming Events
 You will have access to up to five upcoming events, prioritized by date and time. These events will have the name, description, start time, and end time of the event. An icon is also displayed to provide more information about the event. These events will be displayed on cards. You can swipe through the cards to browse through the different events.
 
-## Lists of Classes You Teach
+#### Lists of Classes You Teach
 A list of classes you teach will be displayed. Each list item will provide information about the class name, class period, and a helpful icon to go along with it. By dragging each list item to the left, you will be presented with the option to message students in the class. 
 
-## Messaging
+#### Messaging
 By pressing on the messaging option, you will be presented with a screen where you can privately message with individual students in your class. This will take the form of a simple chat app, where you will be able to upload images or other media as well as text. Moreover, you can create announcements, so that the whole class can see your message. 
 
 ### Calendar Page
