@@ -45,18 +45,23 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 ## Student Screenshots 
 
-# Home
-<img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="100">
-<img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="100">
+### Home
+<img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="200">
 
+<img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="200">
 
-# Calendar
+### Student Add Events
+<img src="https://user-images.githubusercontent.com/52381965/232178913-eafdc0f3-2db2-48e8-b95c-30267043f727.jpeg" width="200">
 
-# ClubHub
+### ClubHub
 
-# Bookkeeper
+### Bookkeeper
 
-# Settings
+## Screenshots Applicable to Students, Parents, and Teachers
+
+## Home
+<img src="https://user-images.githubusercontent.com/52381965/232178955-74267927-b95e-48b4-aaaa-8b79e289cbf4.jpeg" width="200">
+
 
 # Features
 * **Upcoming Events:** Lists all of the users' upcoming events based on the activities they are enrolled. The events are shown on a calendar. A description of the event is provided. The dates and times are listed as well. This ensures that the user is up to date on all school-related information.
