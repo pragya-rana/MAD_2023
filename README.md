@@ -73,10 +73,10 @@ As a student, you have access to the following pages:
 ### Home Page
 This page is meant to provide a snapshot of your events, classes, and activities all in one location for easy access. In this page, you will see:
 
-## Upcoming Events
+#### Upcoming Events
 You will have access to up to five upcoming events, prioritized by date and time. These events will have the name, description, start time, and end time of the event. An icon is also displayed to provide more information about the event. These events will be displayed on cards. You can swipe through the cards to browse through the different events.
 
-## Lists of Clubs and Activities
+#### Lists of Clubs and Activities
 A list of classes and activities that you are currently in will be displayed; each can be accessed by the “classes” and “activities” buttons at the top of lists. Each list item will provide information about the teacher and a helpful icon to go along with it. The classes list item will further have information about the class period. By dragging each list item to the left, you will be presented with the options to either message or email the teacher of a particular class.
 
 **Email**
@@ -88,25 +88,25 @@ By pressing on the messaging option, you will be presented with a screen where y
 ### Calendar Page
 The purpose of this page is to see any upcoming events that either you have created or that an activity that you are in has added. In this page, the default calendar mode will show weekly calendar events.
  
-## Browsing Through the Events
+#### Browsing Through the Events
 You will be able to click through the different dates (switching across days, months, and even years); a subscript on the date will tell you the number of events that you have on that particular day; when you click on the date, a list of your events will show up. The events are color-coded into the following categories: NCHS events (purple), personal events (green), club events (yellow), and sports events (pink). A date that has no events will be labeled as such. To return to today’s date, you can click on the clock icon. 
 
-## Monthly Calendar View
+#### Monthly Calendar View
 As you are browsing through your various events, you may also consider viewing the events in the monthly calendar mode by clicking on the calendar icon at the top of the screen. The functionality of the calendar will still be the same. 
 
-## Add Personal Event
+#### Add Personal Event
 An add icon will be located at the bottom right corner of the screen. When you click this icon, you will be able to add your own event. A form will show on the screen and you will be required to input the following information: Subject of event, details of event, start time (which will display a date and time picker), and end time (which will also display a date and time picker). When you click “submit”, you will be redirected to the calendar page and your event will be displayed at the date chosen. 
 
-# ClubHub
+### ClubHub
 The ClubHub is an area where you can browse through all of the clubs and sports at NCHS in order to get more information about each or to join a particular club. Each item will contain the name, adviser, members, room number, and icon, and of the club. You can browse through the clubs in two different ways:
 
-# Browse Using Categories
+#### Browse Using Categories
 There are six different categories that you can select: Popular, business, technology, art, culture, and sports. These six categories represent a majority of clubs at this school. When you click on a particular category, a list of clubs that belong in this category will be displayed in a column. 
 
-# Browse Using Search Bar
+#### Browse Using Search Bar
 A search bar will be displayed at the top of the page. When nothing has been searched for, a list of all of the clubs at NCHS will be displayed in a column. As you search for a particular club, the results will filter, until you reach the particular club that you are looking for. 
 
-# Clicking On the Club
+#### Clicking On the Club
 When you click on the club that you would like to join or find more information on, the tags, description, and achievements of the club in addition to all of the information on the previous list item. On this expanded view of the club, you will also be able to:
 
 **View the Club’s Instagram**
@@ -115,34 +115,34 @@ An Instagram icon will be displayed at the bottom of the screen. When clicking o
 **Join the Club**
 Click on the “join” button, also displayed at the bottom of the screen if this is a club that you are not already a part of. When clicking join, a box will pop up, asking if you have already joined the Remind code (unless the club has no Remind code). If not, a link will redirect you to join the Remind for the particular club.
 
-## Bookkeeper Page
+### Bookkeeper Page
 The purpose of the bookkeeper page is to allow students to make purchases (as an alternative to NSD touchbase). A list of all purchasable items will be displayed as a grid. Each grid item has an image of the time, name of the item, and the cost of the item. To browse for the bookkeeper items, a search bar can be used.
 
-# Browse Using Search Bar
+#### Browse Using Search Bar
 A search bar will be displayed at the top of the page. When nothing has been searched for, a list of all purchasable items at NCHS will be displayed in a grid. As you search for a particular item, the results will filter, until you reach the particular item that you are looking for.
 
-# Clicking On the Bookkeeper Item
+#### Clicking On the Bookkeeper Item
 When you click on an item that you would like to purchase, all of the elements from the grid element will be presented along with a description of the item. At the end, a “Buy Now” button will be presented. You can click on it if you decide to go ahead with the purchase.
 
 **Make the Purchase**
 When you click buy now, a warning that you must first pay the fine to receive the item will be displayed. You will then have the option to either click cancel or confirm. When you confirm the purchase, the item and fine will be added to your account. If you click cancel, the purchase will not be registered. 
 
-## Settings Page
+### Settings Page
 The settings page is meant to provide an overview information about your account and information about Vertex. In the settings page, you will be able to view:
 
-# Account Information
+#### Account Information
 This information will be relevant to you. It will include items, such as your name, the type of person you are (“student” in this case), and your pronouns. The only editable field is your pronouns.
 
 **Changing Pronouns**
 You will be able to change your pronouns by being redirected to a page where you will be able to input your new pronouns. This is important because this information will be displayed to the individual being messaged.
 
-# Help and Permissions
+#### Help and Permissions
 These settings will present information about our app, including our licensing & terms of use, these instructions, and a feedback page.
 
 **Give Us Feedback**
 If you have a bug, suggestion, compliments, etc. to report you can give us feedback, which we will seriously consider. To give us feedback, you will be redirected to a new page, which will be a form. You will rate the satisfaction you have with Vertex on a scale of 0-10, pick the subject of feedback through a dropdown menu, and add an option comment. When you click the submit button, this feedback will be recorded and we will make sure to consider it. 
 
-# Logout
+#### Logout
 The last item on this screen is the logout button. It will log you out of your account and take you back to the sign in page. 
 
 
