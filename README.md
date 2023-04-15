@@ -145,35 +145,6 @@ If you have a bug, suggestion, compliments, etc. to report you can give us feedb
 #### Logout
 The last item on this screen is the logout button. It will log you out of your account and take you back to the sign in page. 
 
-
-
-
-### Teachers
-  * **Sign-In:** Teachers will be expected to sign-in using their nsd.org emails.
-  * **Home Page** Once the teacher has been successfully authenticated, they will immediately be brought to a home screen where they will able to look at their events and the classes they teach.
-    * Upcoming events that the teachers are advisors of will be displayed at the top of the home screen. All school events will also be displayed.
-    * At the bottom, teachers can access all of the classes they teach. By clicking on one of these classes, teachers can see all of their students in the class, and have further access to message them.
-  * **Calendar Page:** Teachers can navigate to the calendar page with a calendar icon. They will be able to view all of their upcoming events that they are a part of. The events will be similarly displayed to the student page. One additional feature will be accessible to teachers at the top of the Calendar page by clicking on the addition icon: the ability to request events.
-    * Request events: Teachers will be able to request an event by inputting a subject, dscription, and time that the event will occur. The event will be reviewed and added into the database within a few hours.
-  * **Messaging:** Teachers can message their students. They will have access to all of the features that come with messaging (e.g.g photo uploading) that students have.
-
-### Parents
-  * **Sign-In:** Parents will be expected to sign-in with their gmails.
-  * **Home Page** One the parent has been successfully aunthenticated, they will be immediately be brought to a home screen where they will be able to look at their child(ren)'s upcoming events.
-    * Upcoming events that the parent's child is a part of will be displayed at the top of the home screen. All school events will also be displayed.
-    * At the bottom, parents can access their individual child(ren). Bu clicking on one child, teachers can report an absence for that child.
-  * **Calendar Page:** Parents can navigate to the calendar page with a calendar icon. They will be able to view all of the upcoming events that their child(ren) are a part of. The events will be displayed to the student and teacher pages.
-  * **Report Absences:** Parents will have the ability to report an absence of their child. They will have to fill out a short form and submit. The submission will be evaluated and be updated on the student's record.
-
-### All Users
-  * **Settings:** Each user will be able to navigate to the settings page by clicking on the settings icon. The user can do these actions:
-    * The user will be able to change their pronouns if they wish to do so.
-    * The user will be able to view the licensing & terms of agreement.
-    * The user will be able to suggest feedback about the overall app.
-    * The user will be able to look at help guide to navigate the app if they need to so.
-    * The user will be able logout from the app. 
-  * **ASB:** Each user will have access to the ASB page by clicking on the mortarboard icon. The user will have access to all of the school events and the ASB Instagram page
-
 # Support
 If any help is needed while navigating through the app, please contact: [ishita.mundra@gmail.com](ishita.mundra@gmail.com).
 
