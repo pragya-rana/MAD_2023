@@ -46,18 +46,9 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 ## Student Screenshots 
 
 # Home
-<img class="mobile-image" src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG">
-<img class="mobile-image" src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG">
+<img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="100">
+<img src="https://user-images.githubusercontent.com/52381965/232178456-286ee6f6-43a6-4e47-8b51-66878e152c08.PNG" width="100">
 
-<style>
-  .img {
-    display: inline-block;
-  }
-  img.mobile-image {
-    width: 49%;
-    display: inline-block;
-  }
-</style>
 
 # Calendar
 
