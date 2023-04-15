@@ -59,16 +59,22 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 <img src="https://user-images.githubusercontent.com/52381965/232179144-af06fc21-d550-4a8d-9955-f2aae075fdf6.PNG" width="200">
 
 ### Bookkeeper
-<img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG", width="200">
+<img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG" width="200">
 
-<img src="https://user-images.githubusercontent.com/52381965/232179184-c8bb584d-db3b-4b45-a823-859a1dfc6383.PNG", width="200">
+<img src="https://user-images.githubusercontent.com/52381965/232179184-c8bb584d-db3b-4b45-a823-859a1dfc6383.PNG" width="200">
 
 
 ## Screenshots Applicable to Teachers Only
 
 ### Home
+<img src="https://user-images.githubusercontent.com/52381965/232179347-b0bc5979-bc0f-43c1-8d6c-b9b1d24f721c.PNG" width="200">
+
+<img src="https://user-images.githubusercontent.com/52381965/232179350-e44ca9f8-0830-4305-98cb-a817f32781bb.PNG" width="200">
+
+<img src="https://user-images.githubusercontent.com/52381965/232179352-6b7153ed-b61b-4251-9791-c64dec60d057.PNG" width="200">
 
 ### Add Events
+<img src="https://user-images.githubusercontent.com/52381965/232179408-ca0abb6c-7f82-45fe-a09e-f10f1e2b0259.jpeg" width="200">
 
 
 ## Screenshots Applicable to Parents Only
