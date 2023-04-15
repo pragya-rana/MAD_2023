@@ -303,12 +303,10 @@ If any help is needed while navigating through the app, please contact: [ishita.
 
 # RoadMap
 Future releases include:
-* Fully integrating Instagram into our app by directly accessing posts and placing them within our app.
-* Allowing teachers to send messages to an entire class, rather than individual students.
-* Updated UI to ensure the best possible user experiences.
 * Deployment of app at North Creek High School and further expanding to other schools.
 * Notifications for upcoming events and messages.
 * Events from classes
+* Optimizing Firebase
 
 # Authors and Acknowledgement
 Three authors have significantly contributed their time and efforts to this app:
