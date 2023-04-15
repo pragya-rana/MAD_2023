@@ -43,7 +43,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 
 # Screenshots
 
-## Student Screenshots 
+## Screenshots Applicable to Students Only
 
 ### Home
 <img src="https://user-images.githubusercontent.com/52381965/232178455-4550aa21-375f-456d-b757-d723a1e769ad.PNG" width="200">
@@ -54,13 +54,38 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 <img src="https://user-images.githubusercontent.com/52381965/232178913-eafdc0f3-2db2-48e8-b95c-30267043f727.jpeg" width="200">
 
 ### ClubHub
+<img src="https://user-images.githubusercontent.com/52381965/232179129-fef67118-4c37-4492-81f1-64da7fbbafb4.PNG" width="200">
+
+<img src="https://user-images.githubusercontent.com/52381965/232179144-af06fc21-d550-4a8d-9955-f2aae075fdf6.PNG" width="200">
 
 ### Bookkeeper
+<img src="https://user-images.githubusercontent.com/52381965/232179161-8f7985ef-3cfa-41e0-8afe-75ca86d06498.PNG", width="200">
+
+<img src="https://user-images.githubusercontent.com/52381965/232179184-c8bb584d-db3b-4b45-a823-859a1dfc6383.PNG", width="200">
+
+
+## Screenshots Applicable to Teachers Only
+
+### Home
+
+### Add Events
+
+
+## Screenshots Applicable to Parents Only
+
+### Home
+<img src="https://user-images.githubusercontent.com/52381965/232179244-4c8ad6a4-d58c-4f7d-9b97-827946c0855f.jpeg" width="200">
+
+### Report Absences
+<img src="https://user-images.githubusercontent.com/52381965/232179246-6de1da28-bf96-4b41-ae95-3e683d501063.jpeg" width="200">
+
 
 ## Screenshots Applicable to Students, Parents, and Teachers
 
-## Home
+### Calendar
 <img src="https://user-images.githubusercontent.com/52381965/232178955-74267927-b95e-48b4-aaaa-8b79e289cbf4.jpeg" width="200">
+
+### Settings
 
 
 # Features
