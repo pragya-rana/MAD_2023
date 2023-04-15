@@ -92,6 +92,7 @@ We have used [Flutter](https://flutter.dev/?gclid=CjwKCAiAwc-dBhA7EiwAxPRylOL06v
 <img src="https://user-images.githubusercontent.com/52381965/232178955-74267927-b95e-48b4-aaaa-8b79e289cbf4.jpeg" width="200">
 
 ### Settings
+<img src="https://user-images.githubusercontent.com/52381965/232179437-5d0eb64a-e264-46b5-9833-057b75f0e423.jpeg" width="200">
 
 
 # Features
